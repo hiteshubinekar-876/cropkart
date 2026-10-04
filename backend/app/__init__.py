@@ -1,0 +1,1 @@
+"""CropKart Backend Application Package."""

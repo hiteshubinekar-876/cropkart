@@ -1,0 +1,16 @@
+Invoice: ORD-240401
+Status: In Transit
+Placed on: 25 Apr 2026, 4:00 pm
+Estimated delivery: 30 Apr 2026, 11:30 pm
+Customer: Priya Sharma
+Delivery address: 42, Green Residency, Sector 62, Noida, Uttar Pradesh 201301
+Phone: 9876543210
+Payment: UPI
+
+Hapus Aam Peti x 1 = ₹899
+Fresh Palak Bunch x 2 = ₹170
+
+Subtotal: ₹1,069
+Delivery: ₹40
+Discount: ₹100
+Total: ₹1,009

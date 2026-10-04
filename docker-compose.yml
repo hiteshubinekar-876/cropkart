@@ -1,0 +1,37 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: cropkart-backend-monorepo
+    restart: unless-stopped
+    env_file:
+      - ./backend/.env
+    environment:
+      LANGFLOW_URL: http://langflow:7860
+    ports:
+      - "8001:8000"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+  langflow:
+    image: langflowai/langflow:1.12.1
+    container_name: cropkart-langflow-monorepo
+    restart: unless-stopped
+    env_file:
+      - ./automation/langflow/.env
+    environment:
+      LANGFLOW_HOST: 0.0.0.0
+      LANGFLOW_PORT: 7860
+      FASTAPI_BASE_URL: http://host.docker.internal:8001
+    ports:
+      - "7860:7860"
+    volumes:
+      - cropkart-langflow-data:/app/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  cropkart-langflow-data:
+    external: true
+    name: cropkart-langflow-data

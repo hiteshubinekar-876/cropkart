@@ -1,0 +1,24 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#BCEAFF"/>
+  <rect y="600" width="1600" height="300" fill="#8BCB72"/>
+  <rect y="686" width="1600" height="214" fill="#6BB658"/>
+  <rect x="160" y="285" width="1280" height="68" rx="16" fill="#C97C43"/>
+  <rect x="220" y="350" width="20" height="220" fill="#8D5B3C"/>
+  <rect x="1360" y="350" width="20" height="220" fill="#8D5B3C"/>
+  <path d="M185 353H1415L1270 508H328L185 353Z" fill="#E95454"/>
+  <rect x="325" y="515" width="950" height="128" rx="22" fill="#A66B3D"/>
+  <rect x="374" y="550" width="175" height="63" rx="12" fill="#D85151"/>
+  <rect x="583" y="550" width="175" height="63" rx="12" fill="#67B85B"/>
+  <rect x="792" y="550" width="175" height="63" rx="12" fill="#F2C14E"/>
+  <rect x="1001" y="550" width="175" height="63" rx="12" fill="#C06C84"/>
+  <circle cx="438" cy="582" r="18" fill="#F48B8B"/>
+  <circle cx="483" cy="580" r="17" fill="#F16F6F"/>
+  <circle cx="633" cy="581" r="18" fill="#3A8A3D"/>
+  <circle cx="678" cy="580" r="17" fill="#52A750"/>
+  <circle cx="844" cy="583" r="18" fill="#FFD76A"/>
+  <circle cx="888" cy="581" r="17" fill="#F1C247"/>
+  <circle cx="1055" cy="583" r="18" fill="#D88AA1"/>
+  <circle cx="1100" cy="580" r="17" fill="#C06C84"/>
+  <rect x="635" y="438" width="334" height="60" rx="16" fill="#FFF3C6"/>
+  <text x="802" y="477" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#2E4A2E">FRESH SABZI MANDI</text>
+</svg>

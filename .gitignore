@@ -1,0 +1,35 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+!.env.server.example
+*.pem
+*.key
+secrets/
+
+# JavaScript
+node_modules/
+.next/
+.turbo/
+.vercel/
+coverage/
+dist/
+build/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local runtime data
+*.log
+*.sqlite
+*.db
+.DS_Store
+Thumbs.db
+
+/frontend/public/EpicInstaller-19.2.3.exe

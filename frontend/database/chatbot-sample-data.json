@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "prod-1",
+      "name": "Desi Tomatoes",
+      "price": 40,
+      "unit": "1 kg",
+      "description": "Fresh red tomatoes from local farms."
+    },
+    {
+      "id": "prod-2",
+      "name": "Fresh Palak Bunch",
+      "price": 85,
+      "unit": "500 g",
+      "description": "Fresh green palak for home cooking."
+    },
+    {
+      "id": "prod-3",
+      "name": "NPK 19:19:19 Water Soluble Fertiliser",
+      "price": 1290,
+      "unit": "5 kg bag",
+      "description": "Balanced fertiliser for fruits and vegetables."
+    }
+  ],
+  "users": [
+    {
+      "id": "user-1",
+      "name": "Priya Sharma",
+      "email": "buyer@greencart.in",
+      "role": "buyer"
+    },
+    {
+      "id": "user-2",
+      "name": "Rakesh Kumar",
+      "email": "farmer@greencart.in",
+      "role": "farmer"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ORD-240401",
+      "userId": "user-1",
+      "status": "In Transit",
+      "total": 1009,
+      "estimatedDelivery": "2026-04-30T18:00:00.000Z"
+    }
+  ]
+}

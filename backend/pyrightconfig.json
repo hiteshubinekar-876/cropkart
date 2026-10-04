@@ -1,0 +1,13 @@
+{
+  "include": [
+    "app",
+    "tests",
+    "scripts"
+  ],
+  "exclude": [
+    "app/ml"
+  ],
+  "venvPath": "..",
+  "venv": ".venv",
+  "reportAssignmentType": false
+}

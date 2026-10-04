@@ -1,0 +1,14 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="700" fill="#FFF0D7"/>
+  <rect x="280" y="120" width="440" height="460" rx="30" fill="#F5CF7A" stroke="#C98E2E" stroke-width="12"/>
+  <rect x="320" y="170" width="360" height="90" rx="20" fill="#FFF7DA"/>
+  <text x="500" y="228" text-anchor="middle" font-family="Arial" font-size="44" font-weight="700" fill="#7B4A12">SEED PACK</text>
+  <rect x="320" y="295" width="360" height="215" rx="24" fill="#FFFDF2"/>
+  <path d="M500 470V345" stroke="#2E7D32" stroke-width="12" stroke-linecap="round"/>
+  <path d="M500 388C463 394 434 371 426 334C468 331 491 349 500 388Z" fill="#43A047"/>
+  <path d="M500 416C537 420 571 401 583 364C538 360 509 378 500 416Z" fill="#2E7D32"/>
+  <ellipse cx="500" cy="448" rx="66" ry="32" fill="#8D6E63"/>
+  <ellipse cx="468" cy="448" rx="12" ry="6" fill="#6D4C41"/>
+  <ellipse cx="505" cy="455" rx="12" ry="6" fill="#6D4C41"/>
+  <ellipse cx="535" cy="445" rx="12" ry="6" fill="#6D4C41"/>
+</svg>
