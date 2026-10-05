@@ -1,4 +1,4 @@
--- CropKart Supabase Core Schema Migration
+git push-- CropKart Supabase Core Schema Migration
 -- Migration: 20260925_cropkart_core.sql
 -- Enables Row Level Security (RLS) on all tables with strict multi-tenant role policies.
 
